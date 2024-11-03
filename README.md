@@ -13,7 +13,7 @@ Script to automate Ninja Income claim for those who have many accounts.
 1. Install [Python](https://www.python.org/downloads/) 3.8+
 2. Download or clone the repository
     ```bash
-    git clone https://github.com/Tngx22/NH-NEW-ERA-AUTO-CLAIM-EVENT.git
+    git clone https://github.com/Tngx22/SC.NH_New_era.AutoClaim.Income.git
     ```
 3. Get into the directory of the project <br /> <img src="images\desktop-1.png" title="Project Path" alt="Project Path" />
 4. Press `[Shift] Right Click` on the directory
@@ -50,7 +50,7 @@ In this tutorial I will use [Termux](https://termux.dev/)
 3. Download and unpack or clone the repository from Termux
     ```bash
     pkg install git
-    git clone https://github.com/Tngx22/NH-NEW-ERA-AUTO-CLAIM-EVENT.git
+    git clone https://github.com/Tngx22/SC.NH_New_era.AutoClaim.Income.git
     ```
 4. Get into the directory of the project
     * If downloaded
@@ -60,12 +60,12 @@ In this tutorial I will use [Termux](https://termux.dev/)
             ```
         2. use `cd` command to get into the extracted folder, e.g.
             ```bash
-            cd storage/downloads/NH_Income_Automation-main
+            cd storage/downloads/ SC.NH_New_era.AutoClaim.Income-main
             ```
     * If cloned
         1. use `cd` command to get into the cloned repo
             ```bash
-            cd NH-NEW-ERA-AUTO-CLAIM-EVENT
+            cd SC.NH_New_era.AutoClaim.Income
             ```
     <img src="images\mobile-2.png" width="649" title="cd <dir_path>" alt="cd <dir_path>" />
 5. Install the required packages
