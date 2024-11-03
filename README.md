@@ -1,3 +1,6 @@
+# Pengguna WARGA +62🇮🇩
+Silahkan Mentranslate Browser dengan Google Auto translate, Jika masih tidak faham silahkan bergabung dengan channel Telegram yang tersedia dibawah
+# (https://t.me/NHnewera.com) 🔃
 # NH_Income_Automation
 [Ninja Heroes: New Era](https://www.ninjaheroesnewera.com/)'s Ninja Income Automation Script <br />
 Script to automate Ninja Income claim for those who have many accounts.
