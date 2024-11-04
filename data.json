@@ -1,62 +1,112 @@
 [
     {
-        "username": "tngxpoolunik@gmail.com",
-        "password": "Lintang0109",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 1
     },
     {
-        "username": "hantu1@gmail.com",
-        "password": "hantu1",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 1
     },
     {
-        "username": "hantu123@gmail.com",
-        "password": "hantu123",
+        "username": "gmail.com",
+        "password": "pw",
         "server": 1
     },
     {
-        "username": "123456789@gmail.com",
-        "password": "123456789",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 2
     },
     {
-        "username": "asd01@sika3.com",
-        "password": "asd1234",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 34
     },
     {
-        "username": "synxx1@sika3.com",
-        "password": "Synx2212",
+        "username": "gmail.com",
+        "password": "pw",
         "server": 1
     },
     {
-        "username": "hantu3@gmail.com",
-        "password": "hantu3",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 2
     },
     {
-        "username": "asd07@sika3.com",
-        "password": "asd1234",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 34
     },
     {
-        "username": "test123@gmail.com",
-        "password": "test123",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 1
     },
     {
-        "username": "gacor1@gmail.com",
-        "password": "gacor1",
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 1
     },
     {
-        "username": "synxx1@sika3.com",
-        "password": "Synx2212",
+        "username": "gmail.com",
+        "password": "pw",
         "server": 34
     },
     {
-        "username": "gacor1@gmail.com",
-        "password": "gacor1",
+        "username": "@gmail.com",
+        "password": "pw",
+        "server": 2
+    },
+    {
+        "username": "gmail.com",
+        "password": "pw",
+        "server": 1
+    },
+    {
+        "username": "@gmail.com",
+        "password": "pw",
+        "server": 2
+    },
+    {
+        "username": "@gmail.com",
+        "password": "pw",
+        "server": 34
+    },
+    {
+        "username": "gmail.com",
+        "password": "pw",
+        "server": 1
+    },
+    {
+        "username": "@gmail.com",
+        "password": "pw",
+        "server": 2
+    },
+    {
+        "username": "@gmail.com",
+        "password": "pw",
+        "server": 34
+    },
+    {
+        "username": "@gmail.com",
+        "password": "pw",
+        "server": 1
+    },
+    {
+        "username": "@gmail.com",
+        "password": "pw",
+        "server": 1
+    },
+    {
+        "username": "gmail.com",
+        "password": "pw",
+        "server": 34
+    },
+    {
+        "username": "@gmail.com",
+        "password": "pw",
         "server": 2
     }
 ]
