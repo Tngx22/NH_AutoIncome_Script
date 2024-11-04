@@ -1,0 +1,22 @@
+[
+    {
+        "username": "naruto1@gmail.com",
+        "password": "naruto1",
+        "server": 1
+    },
+    {
+        "username": "asd01@sika3.com",
+        "password": "asd1234",
+        "server": 1
+    },
+    {
+        "username": "test123@email.com",
+        "password": "test123",
+        "server": 1
+    },
+    {
+        "username": "123456789@sika3.com",
+        "password": "123456789",
+        "server": 1
+    }
+]
