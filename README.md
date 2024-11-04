@@ -1,7 +1,7 @@
 # Pengguna WARGA +62🇮🇩
 Silahkan Mentranslate Browser dengan Google Auto translate, Jika masih tidak faham silahkan bergabung dengan channel Telegram yang tersedia dibawah
-# https://t.me/NHnewera.com
-# 🇮🇩CARA MENJALANKAN SCRIPT DI TERMUX
+* https://t.me/NHnewera.com
+# 🇮🇩CARA MENJALANKAN SCRIPT DI TERMUX(pengguna mobile) 
 * 『Khusus pengguna mobile』
 ```bash
 pkg update && pkg upgrade -y 
@@ -27,7 +27,7 @@ nano data.json
 𓊈⇘↓↓↓↓↓↓↓↓↓BACA↓↓↓↓↓↓↓↓↓⇙𓊉
 🇮🇩SILAHKAN MASUKAN DATA AKUN DI nano data.json 
 Jika sudah PENCET TOMBOL CTRL PADA MENU(Lalu Klik X) Di keyboard. lalu KLIK TOMBOL CTRL PADA MENU(Lalu Klik Y pada keyboard) Dan pencet tombol Enter di Keyboard
-* 2.untuk mengaktifkan ketik yang ada dibawah 
+* untuk mengaktifkan ketik yang ada dibawah 
 ```bash
 python nh_claim-fast.py Chrome
 ```
@@ -45,6 +45,8 @@ pkg install git
 ```
 ```bash
 git clone https://github.com/Tngx22/NH_Autolncome_Script.git
+```
+```bash
 cd NH_Autolncome_Scipt
 ```
 ```bash
@@ -170,7 +172,7 @@ The script will run on your browser's private/incognito mode, except for `Firefo
 you can set the value of `BROWSER` variable inside `nh_claim.py` with either `chrome`, `edge` or `firefox` to make it easier later to run the script with just `nh_claim.py` or just run the script directly
 
 To run
-1. Basically the same as [Installation](#🇮🇩CARA MENJALANKAN SCRIPT DI TERMUX)'s `3 - 5` instruction above
+1. Basically the same as [CARA MENJALANKAN SCRIPT DI TERMUX](#pengguna_mobile)'s `3 - 5` instruction above
 2. Run the script by double clicking or executing `nh_claim.py` on terminal, followed by any browser listed above as an argument, e.g. `nh_claim.py edge`
 3. If the driver is not there yet, it will download the proper driver executable of the selected browser and store it inside `driver\`. Just wait until it's done downloading <br /> <img src="images\desktop-3.png" width="649" title="nh_claim.py edge" alt="nh_claim.py edge" />
 4. When the browser window showed, go get your coffee
