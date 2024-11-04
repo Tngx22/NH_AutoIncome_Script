@@ -1,8 +1,8 @@
 # Pengguna WARGA +62🇮🇩
 Silahkan Mentranslate Browser dengan Google Auto translate, Jika masih tidak faham silahkan bergabung dengan channel Telegram yang tersedia dibawah
 # https://t.me/NHnewera.com
-# 𓊈🇮🇩CARA MENJALANKAN SCRIPT DI TERMUX𓊉
-* 『Khusus pengguna mobile / handphone』
+# 🇮🇩CARA MENJALANKAN SCRIPT DI TERMUX
+* 『Khusus pengguna mobile』
 ```bash
 pkg update && pkg upgrade -y 
 ```
@@ -14,6 +14,8 @@ pkg install git
 ```
 ```bash
 git clone https://github.com/Tngx22/NH_Autolncome_Script.git
+```
+```bash
 cd NH_Autolncome_Scipt
 ```
 ```bash
@@ -25,7 +27,7 @@ nano data.json
 𓊈⇘↓↓↓↓↓↓↓↓↓BACA↓↓↓↓↓↓↓↓↓⇙𓊉
 🇮🇩SILAHKAN MASUKAN DATA AKUN DI nano data.json 
 Jika sudah PENCET TOMBOL CTRL PADA MENU(Lalu Klik X) Di keyboard. lalu KLIK TOMBOL CTRL PADA MENU(Lalu Klik Y pada keyboard) Dan pencet tombol Enter di Keyboard
-* 2.
+* 2.untuk mengaktifkan ketik yang ada dibawah 
 ```bash
 python nh_claim-fast.py Chrome
 ```
