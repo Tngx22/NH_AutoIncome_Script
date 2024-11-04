@@ -1,17 +1,17 @@
 [
     {
-        "username": "synxx1@sika3.com",
-        "password": "Synx2212",
+        "username": "tngxpoolunik@gmail.com",
+        "password": "Lintang0109",
         "server": 1
     },
     {
-        "username": "asd07@sika3.com",
-        "password": "asd1234",
-        "server": 34
+        "username": "hantu1@gmail.com",
+        "password": "hantu1",
+        "server": 1
     },
     {
-        "username": "test123@gmail.com",
-        "password": "test123",
+        "username": "hantu123@gmail.com",
+        "password": "hantu123",
         "server": 1
     },
     {
@@ -25,8 +25,38 @@
         "server": 34
     },
     {
-        "username": "tngxpoolunik@gmail.com",
-        "password": "Lintang0109",
+        "username": "synxx1@sika3.com",
+        "password": "Synx2212",
         "server": 1
+    },
+    {
+        "username": "hantu3@gmail.com",
+        "password": "hantu3",
+        "server": 2
+    },
+    {
+        "username": "asd07@sika3.com",
+        "password": "asd1234",
+        "server": 34
+    },
+    {
+        "username": "test123@gmail.com",
+        "password": "test123",
+        "server": 1
+    },
+    {
+        "username": "gacor1@gmail.com",
+        "password": "gacor1",
+        "server": 1
+    },
+    {
+        "username": "synxx1@sika3.com",
+        "password": "Synx2212",
+        "server": 34
+    },
+    {
+        "username": "gacor1@gmail.com",
+        "password": "gacor1",
+        "server": 2
     }
 ]
