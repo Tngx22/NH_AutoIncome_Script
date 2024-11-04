@@ -1,7 +1,7 @@
 [
     {
-        "username": "naruto1@gmail.com",
-        "password": "naruto1",
+        "username": "naruto123@gmail.com",
+        "password": "naruto123",
         "server": 1
     },
     {
@@ -10,12 +10,12 @@
         "server": 1
     },
     {
-        "username": "test123@email.com",
+        "username": "test123@gmail.com",
         "password": "test123",
         "server": 1
     },
     {
-        "username": "123456789@sika3.com",
+        "username": "123456789@gmail.com",
         "password": "123456789",
         "server": 1
     }
