@@ -1,13 +1,13 @@
 [
     {
-        "username": "naruto123@gmail.com",
-        "password": "naruto123",
+        "username": "synxx1@sika3.com",
+        "password": "Synx2212",
         "server": 1
     },
     {
-        "username": "asd01@sika3.com",
+        "username": "asd07@sika3.com",
         "password": "asd1234",
-        "server": 1
+        "server": 34
     },
     {
         "username": "test123@gmail.com",
@@ -17,6 +17,16 @@
     {
         "username": "123456789@gmail.com",
         "password": "123456789",
+        "server": 2
+    },
+    {
+        "username": "asd01@sika3.com",
+        "password": "asd1234",
+        "server": 34
+    },
+    {
+        "username": "tngxpoolunik@gmail.com",
+        "password": "Lintang0109",
         "server": 1
     }
 ]
