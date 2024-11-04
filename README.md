@@ -63,7 +63,7 @@ In this tutorial I will use [Termux](https://termux.dev/)
             ```
         2. use `cd` command to get into the extracted folder, e.g.
             ```bash
-            cd storage/downloads/ SC.NH_New_era.AutoClaim.Income-main
+            cd storage/downloads/NH_AutoIncome_Script-main
             ```
     * If cloned
         1. use `cd` command to get into the cloned repo
