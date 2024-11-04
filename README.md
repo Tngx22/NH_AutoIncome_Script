@@ -1,15 +1,71 @@
 # Pengguna WARGA +62🇮🇩
 Silahkan Mentranslate Browser dengan Google Auto translate, Jika masih tidak faham silahkan bergabung dengan channel Telegram yang tersedia dibawah
-# (https://t.me/NHnewera.com) 🔃
+# https://t.me/NHnewera.com
+# 𓊈🇮🇩CARA MENJALANKAN SCRIPT DI TERMUX𓊉
+* 『Khusus pengguna mobile / handphone』
+```bash
+pkg update && pkg upgrade -y 
+```
+```bash
+pkg instal python3 -y
+```
+```bash
+pkg install git
+```
+```bash
+git clone https://github.com/Tngx22/NH_Autolncome_Script.git
+cd NH_Autolncome_Scipt
+```
+```bash
+install -r requirements.txt
+```
+```bash
+nano data.json
+```
+𓊈⇘↓↓↓↓↓↓↓↓↓BACA↓↓↓↓↓↓↓↓↓⇙𓊉
+🇮🇩SILAHKAN MASUKAN DATA AKUN DI nano data.json 
+Jika sudah PENCET TOMBOL CTRL PADA MENU(Lalu Klik X) Di keyboard. lalu KLIK TOMBOL CTRL PADA MENU(Lalu Klik Y pada keyboard) Dan pencet tombol Enter di Keyboard
+* 2.
+```bash
+python nh_claim-fast.py Chrome
+```
+
+# 𓊈🇬🇧Used Script on Termux𓊉
+* 1.
+```bash
+pkg update && pkg upgrade -y 
+```
+```bash
+pkg instal python3 -y
+```
+```bash
+pkg install git
+```
+```bash
+git clone https://github.com/Tngx22/NH_Autolncome_Script.git
+cd NH_Autolncome_Scipt
+```
+```bash
+install -r requirements.txt
+```
+```bash
+nano data.json 
+```
+🇬🇧After you're done, press CTRL Button from the menu and X on your keyboard
+Press Y on your keyboard, then Enter
+* 2.
+```bash
+python nh_claim-fast.py Chrome
+```
 # NH_Income_Automation
 [Ninja Heroes: New Era](https://www.ninjaheroesnewera.com/)'s Ninja Income Automation Script <br />
 Script to automate Ninja Income claim for those who have many accounts.
 
 # Table of Contents
-* [Installation](#installation)
+* [Installation](#installation) 
 * [nh_claim-fast](#nh_claim-fast)
-    * [Mobile User (**nh_claim-fast** only)](#mobile-users-nh_claim-fast-only)
-    * [Github Actions (Daily Automation)](#github-actions-daily-automation)
+* [Mobile User (**nh_claim-fast** only)](#mobile-users-nh_claim-fast-only)
+* [Github Actions (Daily Automation)](#github-actions-daily-automation)
 * [nh_claim (Discontinued)](#nh_claim-discontinued)
 
 # Installation
@@ -112,7 +168,7 @@ The script will run on your browser's private/incognito mode, except for `Firefo
 you can set the value of `BROWSER` variable inside `nh_claim.py` with either `chrome`, `edge` or `firefox` to make it easier later to run the script with just `nh_claim.py` or just run the script directly
 
 To run
-1. Basically the same as [Installation](#installation)'s `3 - 5` instruction above
+1. Basically the same as [Installation](#🇮🇩CARA MENJALANKAN SCRIPT DI TERMUX)'s `3 - 5` instruction above
 2. Run the script by double clicking or executing `nh_claim.py` on terminal, followed by any browser listed above as an argument, e.g. `nh_claim.py edge`
 3. If the driver is not there yet, it will download the proper driver executable of the selected browser and store it inside `driver\`. Just wait until it's done downloading <br /> <img src="images\desktop-3.png" width="649" title="nh_claim.py edge" alt="nh_claim.py edge" />
 4. When the browser window showed, go get your coffee
