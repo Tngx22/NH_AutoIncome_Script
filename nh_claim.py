@@ -45,7 +45,7 @@ CONFIG_DETAIL = {
     }
 }
 
-BROWSER = 'Firefox'
+BROWSER = 'Chrome'
 PATH = Path(__file__).parent
 LOGIN_URL = 'https://www.kageherostudio.com/payment/login.php'
 CLAIM_URL = 'https://www.kageherostudio.com/event/?event=daily'
