@@ -45,9 +45,9 @@ CONFIG_DETAIL = {
     }
 }
 
-BROWSER = 'Edge'
+BROWSER = 'Firefox'
 PATH = Path(__file__).parent
-LOGIN_URL = 'https://www.kageherostudio.com/payment/login.php'
+LOGIN_URL = 'http://kageherostudio.com/event/?event=daily#'
 CLAIM_URL = 'https://www.kageherostudio.com/event/?event=daily'
 config = CONFIG_DETAIL[BROWSER.lower()]
 
@@ -177,3 +177,4 @@ if __name__ == '__main__':
     print()
 
     main(data, min(len(data), max(1, int(num)))-1)
+677
