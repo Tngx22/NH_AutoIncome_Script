@@ -26,7 +26,7 @@ SYSTEM = platform.system()
 
 PERIOD = datetime.utcnow() + timedelta(hours=7)
 PERIOD_D = PERIOD.replace(month=PERIOD.month%12+1, day=1) - timedelta(days=1)
-LOGIN_URL = 'https://kageherostudio.com/payment/server_.php'
+LOGIN_URL = 'http://kageherostudio.com/event/?event=daily#'
 CLAIM_URL = 'https://kageherostudio.com/event/index_.php?act=daily'
 EVENT_URL = 'https://kageherostudio.com/event/?event=daily'
 USER_NAME = 'txtuserid'
