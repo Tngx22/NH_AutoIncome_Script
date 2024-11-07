@@ -23,4 +23,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Start Claim
-        run: python nh_claim-fast.py 9
+        run: python nh_claim.py 1 Firefox
