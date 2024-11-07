@@ -173,7 +173,7 @@ if __name__ == '__main__':
 
     print('\n'.join(f'{str(i+1)+".":<3} {j.get("username")}' for i, j in enumerate(data)))
 
-    num = input(f'Starting Point(1 - 9 {len(data)}): ')
+    num = input(f'Starting Point(1 - {len(data)}):9')
     print()
 
     main(data, min(len(data), max(1, int(num)))-1)
